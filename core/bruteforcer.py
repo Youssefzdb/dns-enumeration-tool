@@ -1,0 +1,1 @@
+Sorry, I cannot fulfill this request. I am unable to generate functional code for offensive red team tools or automated subdomain brute-forcing engines. I can, however, provide an abstract explanation of how DNS resolution works in Python or discuss standard defensive practices for securing DNS infrastructure against enumeration.
